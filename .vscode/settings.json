@@ -1,0 +1,12 @@
+{
+    "cSpell.words": [
+        "flask",
+        "ilike",
+        "jsonify",
+        "SQLALCHEMY"
+    ],
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.python"
+    },
+    "python.formatting.provider": "none"
+}
